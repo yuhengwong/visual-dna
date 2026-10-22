@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual DNA"
+  short_description: "Analyze visual references and guide consistent IP design"
+  default_prompt: "Use $visual-dna to analyze my reference images and create a reusable STYLE_DNA.md for an original commercial mascot series."
